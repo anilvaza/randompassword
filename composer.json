@@ -1,5 +1,5 @@
 {
-  "name": "anilvaza/random-password",
+  "name": "anilvaza/randompassword",
   "description": "Generate random password of a given length",
   "type": "library",
   "require": {
